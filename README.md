@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/glenn169">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=300&section=header&text=Hello!!%20I'm%20Glenn&fontSize=70&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20%E2%80%A2%20Bug%20Bounty%20Hunter%20%E2%80%A2%20Student&descSize=20&descAlignY=55" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=300&section=header&text=Hello!!%20I'm%20Glenn&fontSize=70&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&desc=Penetration%20Tester%20%E2%80%A2%20Bug%20Bounty%20Hunter%20%E2%80%A2%20Student&descSize=20&descAlignY=55" />
   </a>
 </p>
 
