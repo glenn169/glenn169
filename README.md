@@ -22,7 +22,51 @@
 I’m Glenn Adriel Mendonca, a Cybersecurity student and security enthusiast currently pursuing my MSc in Cybersecurity at the National College of Ireland. I have hands-on experience in penetration testing, VAPT, and bug bounty hunting, with a strong foundation in web security and network analysis. I’ve interned as a Penetration Tester, where I worked with tools like Burp Suite, Nmap, Metasploit, Wireshark and more. I enjoy breaking applications ethically, finding vulnerabilities like IDOR, XSS, SQLi, Business Logic flaws and helping organizations secure their systems responsibly.Beyond security, I’ve built multiple projects-from ML-based facial emotion recognition to GUI applications and full-stack web development. I’m passionate about solving complex problems, learning new techniques, and continuously improving my skills in the field of cybersecurity.
 </p>
 
-# Connect me on
+## Tools and Technologies I know ⚙️
+
+> Tools and technologies that I have worked with.
+
+<table>
+ <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
+      <br>GitLab
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
+      <br>JQuery
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
+      <br>PostgreSQL
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
+      <br>ASP.NET
+    </td>
+  </tr>
+
+</table>
 
 
 
