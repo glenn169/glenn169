@@ -19,23 +19,11 @@
 
 
 <p align="justify">
-I’m Glenn Adriel Mendonca, a Cybersecurity student and security enthusiast currently pursuing my MSc in Cybersecurity at the National College of Ireland. I have hands-on experience in penetration testing, VAPT, and bug bounty hunting, with a strong foundation in Python, web security, and network analysis.
-
-I’ve interned as a Penetration Tester, where I worked with tools like Burp Suite, Nmap, Metasploit, Wireshark, and more. I enjoy breaking applications ethically, finding vulnerabilities like IDOR, XSS, SQLi, Business Logic flaws, and helping organizations secure their systems responsibly.
-
-Beyond security, I’ve built multiple projects—from ML-based facial emotion recognition to GUI applications and full-stack web development. I’m passionate about solving complex problems, learning new techniques, and continuously improving my skills.
+I’m Glenn Adriel Mendonca, a Cybersecurity student and security enthusiast currently pursuing my MSc in Cybersecurity at the National College of Ireland. I have hands-on experience in penetration testing, VAPT, and bug bounty hunting, with a strong foundation in web security and network analysis. I’ve interned as a Penetration Tester, where I worked with tools like Burp Suite, Nmap, Metasploit, Wireshark and more. I enjoy breaking applications ethically, finding vulnerabilities like IDOR, XSS, SQLi, Business Logic flaws and helping organizations secure their systems responsibly.Beyond security, I’ve built multiple projects-from ML-based facial emotion recognition to GUI applications and full-stack web development. I’m passionate about solving complex problems, learning new techniques, and continuously improving my skills in the field of cybersecurity.
 </p>
 
 # Connect me on
 
-<p align="center">
-<a href="https://www.linkedin.com/in/glenn-adriel-mendonca-2242081ba/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
-<a href="https://www.instagram.com/dark_shadow0306/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
-</p>
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=ahrwn&label=Profile%20views&color=7745bf&)
