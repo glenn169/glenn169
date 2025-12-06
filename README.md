@@ -19,8 +19,11 @@
 
 
 <p align="justify">
-welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering student, I learn new things about programming and teach these things to others, I have been programming for almost more than 10 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/barnamenevisiinsta">Barnamenevisinsta</a> that shares everything I learn about programming.
+I’m Glenn Adriel Mendonca, a Cybersecurity student and security enthusiast currently pursuing my MSc in Cybersecurity at the National College of Ireland. I have hands-on experience in penetration testing, VAPT, and bug bounty hunting, with a strong foundation in Python, web security, and network analysis.
 
+I’ve interned as a Penetration Tester, where I worked with tools like Burp Suite, Nmap, Metasploit, Wireshark, and more. I enjoy breaking applications ethically, finding vulnerabilities like IDOR, XSS, SQLi, Business Logic flaws, and helping organizations secure their systems responsibly.
+
+Beyond security, I’ve built multiple projects—from ML-based facial emotion recognition to GUI applications and full-stack web development. I’m passionate about solving complex problems, learning new techniques, and continuously improving my skills.
 </p>
 
 # Connect me on
