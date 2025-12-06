@@ -1,15 +1,18 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=300&section=header&text=Hello!!%20I'm%20Glenn&fontSize=70&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20%E2%80%A2%20Bug%20Bounty%20Hunter%20%E2%80%A2%20Student&descSize=20&descAlignY=55)](https://github.com/aaronedev)
 
 
-<a href="https://www.instagram.com/dark_shadow0306/">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/glenn-adriel-mendonca-2242081ba/">
-<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
-</a>
-<a href="https://t.me/noob0x01/">
-<img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
+<p align="center">
+  <a href="https://www.instagram.com/dark_shadow0306/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/glenn-adriel-mendonca-2242081ba/">
+    <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+  </a>
+  <a href="https://t.me/noob0x01/">
+    <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+</p>
+
 
 <p align="justify">
 welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering student, I learn new things about programming and teach these things to others, I have been programming for almost more than 10 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/barnamenevisiinsta">Barnamenevisinsta</a> that shares everything I learn about programming.
