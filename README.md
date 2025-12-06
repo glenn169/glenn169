@@ -29,11 +29,11 @@ I’m Glenn Adriel Mendonca, a Cybersecurity student and security enthusiast cur
 <table>
  <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        <img src="https://skillicons.dev/icons?i=kali" width="48" height="48" alt="Git" />
       <br>Git
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="GitLab" />
       <br>GitLab
     </td>
     <td align="center"  width="96">
@@ -45,7 +45,7 @@ I’m Glenn Adriel Mendonca, a Cybersecurity student and security enthusiast cur
       <br>CSS
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+        <img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
@@ -69,10 +69,6 @@ I’m Glenn Adriel Mendonca, a Cybersecurity student and security enthusiast cur
 </table>
 
 
-
-![Profile views](https://komarev.com/ghpvc/?username=ahrwn&label=Profile%20views&color=7745bf&)
-![GitHub followers](https://img.shields.io/github/followers/aaronedev?style=flat&logo=github&label=Followers&color=7c60d1)
-![GitHub stars](https://img.shields.io/github/stars/aaronedev?style=flat&logo=github&label=Stars&color=fd7cff)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C60D1&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Linux+desktop+engineering;rootless+containers;Hyprland+workflows;Neovim+configs+%26+Themes" alt="Typing SVG" />
