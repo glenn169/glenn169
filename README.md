@@ -25,7 +25,7 @@ I’m Glenn Adriel Mendonca, a Cybersecurity student and security enthusiast cur
 ## Tools and Technologies I know ⚙️
 
 > Tools and technologies that I have worked with.
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=kali,ubuntu,windows,mac,linux,burpsuite,)
+ 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=kali,ubuntu,windows,linux,burpsuite&urls=https://audacia.co.uk/img/technologies/owaspzap.png)
 
 
