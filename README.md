@@ -49,7 +49,7 @@ I’m Glenn Adriel Mendonca, a Cybersecurity student and security enthusiast cur
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+        <img src="src="https://go-skill-icons.vercel.app/api/icons?i=burpsuite" width="48" height="48" alt="tailwind" />
       <br>Tailwind
     </td>
         <td align="center" width="96">
