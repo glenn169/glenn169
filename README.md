@@ -29,11 +29,11 @@ I’m Glenn Adriel Mendonca, a Cybersecurity student and security enthusiast cur
 <table>
  <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=kali" width="48" height="48" alt="Git" />
+        <img src="https://skillicons.dev/icons?i=kali" width="48" height="48" alt="Kali" />
       <br>Git
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="GitLab" />
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>GitLab
     </td>
     <td align="center"  width="96">
@@ -45,7 +45,7 @@ I’m Glenn Adriel Mendonca, a Cybersecurity student and security enthusiast cur
       <br>CSS
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="bootstrap" />
+        <img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
