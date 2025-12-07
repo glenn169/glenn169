@@ -26,7 +26,7 @@ I’m Glenn Adriel Mendonca, a Cybersecurity student and security enthusiast cur
 
 > Tools and technologies that I have worked with.
  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=kali,ubuntu,windows,linux,burpsuite,wireshark,vmwareworkstation,virtualbox,notion,html,css,mysql,hackthebox,tryhackme)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=kali,ubuntu,windows,linux,burpsuite,wireshark,hackthebox,tryhackme,notion,html,css,mysql,vmwareworkstation,virtualbox)
 
 
 <table>
