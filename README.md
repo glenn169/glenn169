@@ -33,7 +33,7 @@ I’m Glenn Adriel Mendonca, a Cybersecurity student and security enthusiast cur
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C60D1&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Linux+desktop+engineering;rootless+containers;Hyprland+workflows;Neovim+configs+%26+Themes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C60D1&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Penetration+Tester;Bug+Bounty+Hunter;Cybersecurity+Enthusiast+%26+Themes" alt="Typing SVG" />
 </p>
 
 <!--
